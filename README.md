@@ -61,6 +61,8 @@ This is a **vibecoded project** — created iteratively with a focus on learning
 
 ### Setup
 
+Unzip android.zip
+
 ```bash
 npm install
 npx cap sync
@@ -102,15 +104,6 @@ android/app/build/outputs/apk/debug/app-debug.apk
 
 ---
 
-### Release build (optional)
-
-```
-Build → Generate Signed Bundle / APK
-```
-
-Create a keystore and select a release build.
-
----
 
 ## Project Structure
 
