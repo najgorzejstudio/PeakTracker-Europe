@@ -3,9 +3,14 @@
 An interactive map app to track and visualize the highest peaks visited across Europe. Built with simple web technologies and packaged as an Android app.
 
 This is a **vibecoded project** — created iteratively with a focus on learning, experimentation, and building something useful.
+---
+<p align="center">
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/7b072bd6-b29d-406b-9cfe-52c90f485ede" /> 
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/b85b3a4e-2afc-4f00-ba45-2f336f7a538c" />
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/8533a5d9-7e9f-4cc6-8f1b-009d168a9582" />
+</p>
 
 ---
-
 ## Features
 
 * Interactive map of Europe
