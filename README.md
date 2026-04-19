@@ -27,29 +27,6 @@ This is a **vibecoded project** — created iteratively with a focus on learning
 
 ---
 
-## Running the App (Web)
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/peaktracker.git
-   cd peaktracker
-   ```
-
-2. Serve the app locally:
-
-   ```bash
-   npx serve public
-   ```
-
-3. Open in browser:
-
-   ```
-   http://localhost:3000
-   ```
-
----
-
 ## Running on Android
 
 ### Requirements
